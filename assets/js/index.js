@@ -1,4 +1,3 @@
-// Armazenar em uma variável a classe dúvida ".duvida"
 // document = html (tipo de documento - DOCTYPE)
 // querySelectorAll = busca geral
 const elementosDuvidas = document.querySelectorAll(".duvidas");
